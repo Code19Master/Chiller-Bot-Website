@@ -8,7 +8,7 @@
 
 > Website for the Discord Bot Chiller
 
-### 🏠 [Homepage](Will Add)
+### 🏠 [Homepage](https://chiller.netlify.app/)
 
 ## Install
 
